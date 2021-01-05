@@ -13,6 +13,10 @@ open text editor ( recomended with Visual Studio Code )
 run script program
 and success 
 ```
+# Dont Forget Connect Your whatsapp web browser :
+```
+https://web.whatsapp.com
+```
 ### Some other functions 
 ```python
 pywhatkit.showHistory()#Will show information of all the messages sent using this library
