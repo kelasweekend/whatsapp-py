@@ -1,6 +1,8 @@
 ![Python Image](https://miro.medium.com/max/1200/1*PPIp7twJJUknfohZqtL8pQ.png)
 # whatsapp-py | Python Version
-WhatsApp Python | Kirim Chat Whatsapp Dengan Waktu yang ditentukan menggunakan Python
+WhatsApp Python  for Sending whatsapp message at certain time, it has several other features too.
+# Download
+[![Downloads](https://pepy.tech/badge/pywhatkit/month)](https://pepy.tech/project/pywhatkit/month)
 
 # user guide :
 ```
