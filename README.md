@@ -13,4 +13,23 @@ open text editor ( recomended with Visual Studio Code )
 run script program
 and success 
 ```
-Dont Forget click star and fork my repo 
+### Some other functions 
+```python
+pywhatkit.showHistory()#Will show information of all the messages sent using this library
+
+pywhatkit.shutdown(time=100)#Will shutdown the system in 100 seconds
+
+pywhatkit.cancelShutdown()#Will cancel the scheduled shutdown
+
+pywhatkit.watch_tutorial_in_english/hindi()#Will open a tutorial on how to use this library on YouTube in respective language
+
+pywhatkit.sendMail(my_mail, my_pass, mail_to, content):  #to send a mail to anybody. 
+
+pywhatkit.help() #For more information
+
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+MIT
